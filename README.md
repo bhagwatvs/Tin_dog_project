@@ -14,11 +14,9 @@ A fun and modern landing page for a fictional **dog dating service**, built usin
 - CSS3  
 - Bootstrap 5  
 
-📸 Project Preview
-[TinDog Preview](preview.png)  
  
 
 🚀 Installation & Setup
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/tindog.git
+   git clone https://github.com/bhagwatvs/Tin_dog_project
